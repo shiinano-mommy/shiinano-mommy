@@ -10,7 +10,7 @@
 
 🖥 Resolution: 1920x1080
 
-🌠 IntelliJ Theme: Moonlight
+🌠 IntelliJ Theme: Moonlight Dark
 
 💣 CPU: Intel i7 10700k 
 
