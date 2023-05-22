@@ -12,7 +12,7 @@
 
 🌠 IntelliJ Theme: Moonlight Dark
 
-💣 CPU: Intel i7 10700k 
+💣 CPU: Intel i7 10700k, 5.1GHz @ 1.15
 
 🚀 GPU: Nvidia GeForce RTX 2080
 
