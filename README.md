@@ -6,7 +6,7 @@
 
 🌍 Country: Poland
 
-💻 OS: Windows 11
+💻 OS: Windows 11 Pro
 
 🖥 Resolution: 1920x1080
 
